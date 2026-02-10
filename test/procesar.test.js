@@ -25,7 +25,7 @@ assert.deepEqual(res.body, {
   resultado: "Nombre procesado: JUAN",
   longitud: 4
 });
-
+});
 
 
 test("procesar maneja nombre ausente", () => {
