@@ -83,3 +83,4 @@ test("calidad: JSON consistente y resultado en MAYÚSCULAS", () => {
   assert.equal(res.body.longitud, "JuAn pérez".length);
 });
 
+
